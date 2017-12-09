@@ -8,11 +8,11 @@
 # Getting started
 - Clone the repository
 ```
-git clone https://mykhailo.lonin@innersource.accenture.com/scm/tlsa/mercuriamvp.git
+git clone https://github.com/MichaelLonin/react-node-quorum-starter
 ```
 - Navigate to client and Install dependencies
 ```
-cd ./mercuriamvp/client
+cd ./react-node-quorum-starter/client
 npm install
 ```
 - Create client static build

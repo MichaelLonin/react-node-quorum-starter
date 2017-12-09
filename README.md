@@ -37,7 +37,7 @@ npm run deploy
 ```
 - Start the Node.js server
 ```
-npm start
+npm start -- 0
 ```
 
 Navigate to `http://localhost:3000`

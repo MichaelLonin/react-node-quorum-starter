@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+.svn
+.git
+node_modules
+ubuntu-xenial-16.04-cloudimg-console.log
+vagrantSetup/ubuntu-xenial-16.04-cloudimg-console.log
+.vagrant
+.vscode
+server/logs/*
